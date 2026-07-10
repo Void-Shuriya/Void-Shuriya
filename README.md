@@ -41,6 +41,7 @@ I'm currently improving my development fundamentals and preparing for an IT inte
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Python" title="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <br clear="left"/>
 
@@ -53,6 +54,7 @@ I'm currently improving my development fundamentals and preparing for an IT inte
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/FFFFFF"/>
 <img align="left" alt="XAMPP" title="XAMPP" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/xampp/F37623"/>
+<img align="left" alt="Figma" title="Figma" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 <br clear="left"/>
 
@@ -62,4 +64,5 @@ I'm currently improving my development fundamentals and preparing for an IT inte
 
 * Improving my HTML and CSS fundamentals
 * Learning JavaScript and PHP
+* Exploring Python as a hobby
 * Improving my understanding of MySQL, Git, and GitHub
