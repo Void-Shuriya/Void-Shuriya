@@ -40,7 +40,6 @@ I'm currently improving my development fundamentals and undergoing a network eng
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <br clear="left"/>
@@ -49,7 +48,6 @@ I'm currently improving my development fundamentals and undergoing a network eng
 
 ## 🛠️ Development Tools
 
-<img align="left" alt="Codex" title="Codex" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/chatgpt/FFFFFF"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/FFFFFF"/>
