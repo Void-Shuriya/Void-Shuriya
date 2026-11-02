@@ -49,7 +49,7 @@ I'm currently improving my development fundamentals and undergoing a network eng
 
 ## 🛠️ Development Tools
 
-<img align="left" alt="Codex" title="Codex" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/codex/FFFFFF"/>
+<img align="left" alt="Codex" title="Codex" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/chatgpt/FFFFFF"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/FFFFFF"/>
