@@ -20,7 +20,7 @@ I'm currently pursuing a Diploma in Information Technology at SEGi College Penan
 
 Through my academic projects, I have gained practical exposure to HTML, CSS, JavaScript, PHP, and MySQL.
 
-I'm currently improving my development fundamentals and preparing for an IT internship beginning in September 2026.
+I'm currently improving my development fundamentals and undergoing a network engineer internship until December 2026.
 
 <p align="left">
   <a href="mailto:shuriya2805@gmail.com">
@@ -49,7 +49,7 @@ I'm currently improving my development fundamentals and preparing for an IT inte
 
 ## 🛠️ Development Tools
 
-<img align="left" alt="Cursor" title="Cursor" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/cursor/FFFFFF"/>
+<img align="left" alt="Codex" title="Codex" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/codex/FFFFFF"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/FFFFFF"/>
@@ -62,7 +62,7 @@ I'm currently improving my development fundamentals and preparing for an IT inte
 
 ## 🌱 Currently Learning
 
-* Improving my HTML and CSS fundamentals
+* Improving my programming fundamentals
 * Learning JavaScript and PHP
 * Exploring Python as a hobby
 * Improving my understanding of MySQL, Git, and GitHub
